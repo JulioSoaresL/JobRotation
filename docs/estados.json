@@ -1,0 +1,27 @@
+[
+    {
+        "estado":"São Paulo",
+        "faturamento" : 67836.43,
+        "porcentagem" : 0
+    },
+    {
+        "estado":"Rio de Janeiro",
+        "faturamento" : 36678.66,
+        "porcentagem" : 0
+    },
+    {
+        "estado":"Minas Gerais",
+        "faturamento" : 29229.88,
+        "porcentagem" : 0
+    },
+    {
+        "estado":"Espirito Santo",
+        "faturamento" : 27165.48,
+        "porcentagem" : 0
+    },
+    {
+        "estado":"Outros",
+        "faturamento" : 19849.53,
+        "porcentagem" : 0
+    }
+]
